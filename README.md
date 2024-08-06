@@ -1,5 +1,4 @@
-> BeautyBlend : Your ultimate Beauty Hub
-(https://raw.githubusercontent.com/Vetrivel-VP/yt-beauty-shop-app-react-expo-jul4th2023/783b7d1f4ba3aa4f355ecbaa0f3d3d7e9ed81d87/snap.png)
+G:\Build\cart\assets\images\shopping.png
 
 # React Native
 
