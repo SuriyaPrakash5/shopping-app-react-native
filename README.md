@@ -1,5 +1,5 @@
 > BeautyBlend : Your ultimate Beauty Hub
-[> ![Thumbnail Of the project](./snap.png)](https://raw.githubusercontent.com/Vetrivel-VP/yt-beauty-shop-app-react-expo-jul4th2023/783b7d1f4ba3aa4f355ecbaa0f3d3d7e9ed81d87/snap.png)
+(https://raw.githubusercontent.com/Vetrivel-VP/yt-beauty-shop-app-react-expo-jul4th2023/783b7d1f4ba3aa4f355ecbaa0f3d3d7e9ed81d87/snap.png)
 
 # React Native
 
