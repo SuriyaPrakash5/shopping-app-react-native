@@ -1,4 +1,4 @@
-> ![Thumbnail Of the project](./snap.png)
+> ![Thumbnail Of the project](./shopping.png)
 
 # React Native
 
